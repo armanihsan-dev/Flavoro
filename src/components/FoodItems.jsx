@@ -34,6 +34,7 @@ const FoodItems = () => {
             />
           );
         })}
+        <p className="text-sm text-gray-400">Made with ❤️ by Arman Ihsan</p>
       </div>
     </>
   );

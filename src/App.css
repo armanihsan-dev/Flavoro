@@ -4,3 +4,9 @@
 body {
   background-color: rgb(244, 244, 244);
 }
+
+@layer base {
+  #creator {
+    @apply font-thin;
+  }
+}
